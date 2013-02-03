@@ -1,7 +1,5 @@
-$ mkdir ~/forge
+syntacraft
 
-$ cd ~/forge
+===============
 
-$ git init
-
-$ touch README
+its a mod
