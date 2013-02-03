@@ -1,7 +1,7 @@
-mkdir ~/forge#
+$ mkdir ~/forge
 
-cd ~/forge#
+$ cd ~/forge
 
-git init#
+$ git init
 
-touch README#
+$ touch README
