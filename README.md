@@ -1,4 +1,7 @@
-syntacraft
-==========
+mkdir ~/forge
 
-pretty cool mod, if i do say so myself.
+cd ~/forge
+
+git init
+
+touch README
